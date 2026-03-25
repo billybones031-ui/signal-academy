@@ -1,51 +1,49 @@
 # Signal Academy
-> Distribution Strategy + Education | Infinite Signal Labs | "We listen to machines."
->
-> [![ISL](https://img.shields.io/badge/Infinite_Signal_Labs-Signal_Academy-black?style=flat-square)](https://github.com/billybones031-ui)
-> [![Status](https://img.shields.io/badge/Status-Building-blue?style=flat-square)]()
-> [![BuildInPublic](https://img.shields.io/badge/Build_In_Public-%23buildinpublic-orange?style=flat-square)]()
+
+![Build In Public](https://img.shields.io/badge/Build_In_Public-%23buildinpublic-orange?style=flat)
+![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)
+![Community](https://img.shields.io/badge/Community-Building-blue?style=flat)
+![Status](https://img.shields.io/badge/Status-Building-green?style=flat)
+
+> Distribution Strategy + Education First, Product Second | Infinite Signal Labs | "We listen to machines."
 >
 > ---
 >
 > ## What is Signal Academy?
 >
-> Signal Academy is the distribution and education arm of Infinite Signal Labs.
+> Signal Academy is ISL's distribution and audience-building engine. Education first, product second. We build trust with real builders and creators before we ask them to buy anything.
 >
-> **Reframe: distribution strategy first, product second.**
->
-> Build trust and a track record before charging. Use Signal Academy to grow an audience for all other ISL products — SPECTRA, DIAGNOSTIX, and SOUNDFORGE + CLEARWAVE.
+> Signal Academy is how Infinite Signal Labs goes to market — through content, community, and transparency.
 >
 > ---
 >
 > ## Strategy
 >
-> 1. Document the AM4 dev machine build on YouTube/X
-> 2. 2. Share ISL project progress publicly
->    3. 3. Teach what Billy learns — trades background to tech transition
->       4. 4. Build audience trust before asking for money
->          5. 5. Use that audience to accelerate product launches
+> 1. **Build in public** — document every build, every failure, every win on YouTube and social
+> 2. 2. **Education first** — teach real skills (AI, automation, trades-to-tech) before selling products
+>    3. 3. **Community trust** — grow an audience of builders who believe in what ISL is making
+>       4. 4. **Product launch via audience** — when products ship, the audience is already there
+>          5. 5. **Feedback loop** — use community feedback to shape product roadmap in real time
 >            
 >             6. ---
 >            
 >             7. ## Content Pillars
 >            
->             8. | Pillar | Format |
-> |---|---|
-> | AM4 Build Series | YouTube / X |
-> | SPECTRA Dev Log | YouTube / X / GitHub |
-> | DIAGNOSTIX Testing | YouTube (real mechanic perspective) |
-> | AI Tools for Builders | X threads / blog |
-> | Trades → Tech Transition | X / community |
+>             8. | Pillar | Format | Goal |
+> |---|---|---|
+> | Build Logs | YouTube / Short-form | Show the real build process |
+> | Tutorials | YouTube / GitHub | Teach AI, automation, trades-to-tech |
+> | Product Previews | YouTube / Social | Build anticipation for ISL products |
+> | ISL Updates | Newsletter / GitHub | Keep community informed |
+> | Community Q&A | Live / Comments | Build trust and get feedback |
 >
 > ---
 >
 > ## SBIR Grant Opportunity
 >
-> Looking at SBIR grants at sbir.gov for:
-> - Audio AI research
-> - - Industrial sensing / predictive maintenance
->  
->   - ---
+> Signal Academy's build-in-public strategy and educational content positions ISL for SBIR (Small Business Innovation Research) grants. Documented public development, community engagement, and product-market fit evidence support grant applications for AI and manufacturing technology.
+>
+> ---
 >
 > ## Status
 >
